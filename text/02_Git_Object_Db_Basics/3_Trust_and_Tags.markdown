@@ -4,7 +4,7 @@
 
 Um objeto tag contém um nome de objeto (chamado simplesmente de 'object'),
 tipo de objeto, nome da tag, o nome da pessoa ('tagger') que criou a tag, e uma 
-mensagem, que pode conter um assinatura, como pode ser visto usando 
+mensagem, que pode conter uma assinatura, como pode ser visto usando 
 linkgit:git-cat-file[1]:
 
     $ git cat-file tag v1.5.0

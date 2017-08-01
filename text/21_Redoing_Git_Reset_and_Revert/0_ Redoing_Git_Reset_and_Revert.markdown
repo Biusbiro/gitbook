@@ -47,7 +47,7 @@ fundamentalmente diferentes para resolver o problema:
 
 #### Corrigindo um erro com um novo commit ####
 
-Criando um novo commit que reverte um alteração mais recente é muito fácil;
+Criando um novo commit que reverte uma alteração mais recente é muito fácil;
 só passar para o comando linkgit:git-revert[1] a referência para o commit ruim;
 por exemplo, para reverter o commit mais recente:
 
